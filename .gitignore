@@ -1,0 +1,16 @@
+
+out/
+*.class
+
+
+data/
+logs/
+
+
+sources.txt
+
+
+.DS_Store
+.idea/
+*.iml
+.vscode/

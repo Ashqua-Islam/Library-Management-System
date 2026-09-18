@@ -83,7 +83,7 @@ LibraryManagementSystem/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/LibraryManagementSystem.git
+git clone https://github.com/<Ashqua-Islam>/LibraryManagementSystem.git
 cd LibraryManagementSystem
 
 # 2. Compile
